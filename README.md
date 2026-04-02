@@ -1,91 +1,83 @@
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--              ANUM MUBASHAR IQBAL — GitHub Profile README         -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════ -->
+<!--   ANUM MUBASHAR IQBAL — GitHub Profile README  -->
+<!-- ══════════════════════════════════════════════ -->
 
 <div align="center">
 
-<!-- ═══ BOTANICAL BANNER ═══ -->
-<img src="./banner.svg" alt="Anum Mubashar Iqbal — Linguist · Researcher · Educator" width="100%"/>
+<!-- ═══ ANIMATED HEADER (no separate file needed!) ═══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3626,60:2D6A4F,100:52B788&height=230&section=header&text=Anum%20Mubashar%20Iqbal&fontSize=50&fontColor=F8F2E4&animation=fadeIn&fontAlignY=38&desc=Linguist%20%7C%20Researcher%20%7C%20Educator%20%7C%20Builder&descAlignY=58&descSize=18&descColor=E8C56A"/>
 
 <br/>
 
-<!-- ═══ ANIMATED TYPING SUBTITLE ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&duration=3500&pause=1500&color=40916C&center=true&vCenter=true&width=750&height=35&lines=Researching+Non-Concatenative+Morphophonology+in+Urdu+%F0%9F%8C%BF;Building+tools+where+Language+Science+meets+Technology+%E2%9C%A8;Making+Linguistics+accessible%2C+beautiful%2C+and+interactive+%F0%9F%8C%B1" alt="Animated subtitle"/>
+<!-- ═══ ANIMATED SUBTITLE ═══ -->
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=500&size=20&duration=3800&pause=1600&color=2D6A4F&center=true&vCenter=true&width=780&height=38&lines=Founder+of+The+Lingua+Loom+%F0%9F%8C%BF;Working+at+the+intersection+of+theory+%26+practice+%E2%9C%A8;Building+tools+that+make+language+science+accessible+%F0%9F%8C%B1;Language+is+the+architecture+of+thought+%F0%9F%94%AC" alt="Subtitle"/>
 
 <br/><br/>
 
-<!-- ═══ SOCIAL BADGES ═══ -->
-[![Website](https://img.shields.io/badge/🌍_thelingualoom.com-2D6A4F?style=for-the-badge)](https://www.thelingualoom.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TheLinguaLoom)
-[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thelingualoom)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp_Channel-1DA851?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.whatsapp.com/channel/0029VbBkZRT4yltYZiUG0S2v)
-[![Email](https://img.shields.io/badge/Email-8B3A1A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thelingualoom@gmail.com)
+<!-- ═══ ICON-ONLY SOCIAL BADGES ═══ -->
+<a href="https://www.thelingualoom.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-1A3626?style=for-the-badge&logo=safari&logoColor=E8C56A" height="32"/></a>
+&nbsp;
+<a href="https://www.youtube.com/@TheLinguaLoom" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-CC0000?style=for-the-badge&logo=youtube&logoColor=white" height="32"/></a>
+&nbsp;
+<a href="https://www.instagram.com/thelingualoom" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" height="32"/></a>
+&nbsp;
+<a href="https://www.whatsapp.com/channel/0029VbBkZRT4yltYZiUG0S2v" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-1DA851?style=for-the-badge&logo=whatsapp&logoColor=white" height="32"/></a>
+&nbsp;
+<a href="mailto:thelingualoom@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B3A1A?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anum-Mubashar-Iqbal&color=40916C&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Anum-Mubashar-Iqbal&color=2D6A4F&style=flat-square&label=Profile+Views)
 
 </div>
 
-<br/>
-
 ---
 
-## 🌿 About Me
+## 🌿 About
 
 > *"Language is not merely a tool for communication — it is the very architecture of thought."*
 
-I am a **linguist, researcher, and educator** currently completing my **MPhil in Linguistics** at the **University of Chenab, Gujrat, Pakistan**, under the supervision of **Dr. Naila Kanwal Dar**.
+I work at the intersection of **theoretical linguistics** and **practical language technology** — researching the formal structures that govern language while building digital tools that make linguistic knowledge accessible to everyone. My work spans formal phonology, morphology, language pedagogy, and educational software development.
 
-My thesis investigates **non-concatenative morphophonological processes in Urdu** — specifically echo formation, broken plurals, and vowel alternation — through the formal lens of **Optimality Theory (OT)**. This research extends existing scholarship into a rigorous, constraint-based formal analysis with original empirical data.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Beyond academia, I am the founder of **The Lingua Loom** — an educational platform where the science of language is made accessible, interactive, and beautiful for everyone.
+**🔬 Theoretical Research**
 
-```
-📍  Gujrat, Punjab, Pakistan
-🎓  MPhil Linguistics (in progress) — University of Chenab
-🔬  Thesis: Non-Concatenative Morphophonology in Urdu — An OT Analysis
-✍️  Focus: Echo Formation, Broken Plurals, Vowel Alternation
-🌱  Long-term Goal: Linguistics Professor & Educational Technology Creator
-📜  Certified: ESL · TEFL · Prompt Engineering · Mass Communication
-```
+Formal analysis of phonological and morphological systems, constraint-based frameworks, and the structural patterns underlying natural language.
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🔬 Research Interests
+**🛠️ Applied Technology**
 
-<div align="center">
+Building interactive web tools, AI-powered language apps, and educational platforms that bring linguistics to students and the public.
 
-![Phonetics & Phonology](https://img.shields.io/badge/Phonetics_%26_Phonology-1B4332?style=flat-square&logoColor=white)
-![Morphophonology](https://img.shields.io/badge/Morphophonology-2D6A4F?style=flat-square&logoColor=white)
-![Optimality Theory](https://img.shields.io/badge/Optimality_Theory-40916C?style=flat-square&logoColor=white)
-![Urdu Linguistics](https://img.shields.io/badge/Urdu_Linguistics-52B788?style=flat-square)
-![Non-Concatenative Morphology](https://img.shields.io/badge/Non--Concatenative_Morphology-74C69D?style=flat-square)
-![Echo Formation](https://img.shields.io/badge/Echo_Formation-8B5E3C?style=flat-square&logoColor=white)
-![Cognitive Linguistics](https://img.shields.io/badge/Cognitive_Linguistics-A0785A?style=flat-square&logoColor=white)
-![Conceptual Metaphor Theory](https://img.shields.io/badge/Conceptual_Metaphor_Theory-C4A882?style=flat-square)
-![Generative Grammar](https://img.shields.io/badge/Generative_Grammar-1B4332?style=flat-square&logoColor=white)
-![Discourse Analysis](https://img.shields.io/badge/Discourse_Analysis-2D6A4F?style=flat-square&logoColor=white)
-![Language Pedagogy](https://img.shields.io/badge/Language_Pedagogy-40916C?style=flat-square&logoColor=white)
-![ESL Teaching](https://img.shields.io/badge/ESL_Teaching-8B5E3C?style=flat-square&logoColor=white)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌐 The Lingua Loom Ecosystem
+## 🌐 The Lingua Loom
+
+> *A growing educational universe where language science meets creativity*
 
 <div align="center">
 
-> *A growing educational universe where language science meets creativity — for students, researchers, and curious minds everywhere.*
-
-| &nbsp; | Platform | What You'll Find | Link |
-|:------:|:---------|:----------------|:----:|
-| 🌍 | **Main Website** | Home base — articles, resources, research & more | [thelingualoom.com](https://www.thelingualoom.com/) |
-| 🛠️ | **The Loom Workshop** | Interactive linguistics web tools & educational apps | [theloomworkshop.thelingualoom.com](https://theloomworkshop.thelingualoom.com/) |
-| ▶️ | **YouTube Channel** | Linguistics explainers, lessons & educational videos | [@TheLinguaLoom](https://www.youtube.com/@TheLinguaLoom) |
-| 📸 | **Instagram** | Bite-sized linguistics content, tips & visual posts | [@thelingualoom](https://www.instagram.com/thelingualoom) |
-| 💬 | **WhatsApp Channel** | Language resources, updates & announcements | [Join Channel](https://www.whatsapp.com/channel/0029VbBkZRT4yltYZiUG0S2v) |
+| | Platform | | Link |
+|:---:|:---------|:---|:---:|
+| 🌍 | **Main Website** | Home base — articles, resources & more | [Visit](https://www.thelingualoom.com/) |
+| 🛠️ | **The Loom Workshop** | Interactive linguistics tools & apps | [Explore](https://theloomworkshop.thelingualoom.com/) |
+| ▶️ | **YouTube** | Linguistics explainers & video essays | [Watch](https://www.youtube.com/@TheLinguaLoom) |
+| 📸 | **Instagram** | Bite-sized linguistics content | [Follow](https://www.instagram.com/thelingualoom) |
+| 💬 | **WhatsApp Channel** | Language tips & announcements | [Join](https://www.whatsapp.com/channel/0029VbBkZRT4yltYZiUG0S2v) |
 
 </div>
 
@@ -93,40 +85,38 @@ Beyond academia, I am the founder of **The Lingua Loom** — an educational plat
 
 ## 🛠️ Featured Projects
 
-<br/>
-
-### 🔤 [The Loom Workshop](https://theloomworkshop.thelingualoom.com/)
+### 01 — [The Loom Workshop](https://theloomworkshop.thelingualoom.com/)
 **Interactive Linguistics Education Web App**
 
-A growing suite of educational tools covering **syntax, phonetics & phonology, morphology, and etymology** — designed to make formal linguistics concepts hands-on and explorable for learners at every level. Built from scratch with pure web technologies and deployed on GitHub Pages.
+A suite of educational tools covering syntax, phonetics & phonology, morphology, and etymology — built to make formal linguistic concepts explorable for every kind of learner.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-2D6A4F?style=flat-square&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-1A3626?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🤖 [English AI Tutor](https://anum-mubashar-iqbal.github.io/English-AI-Tutor/)
-**Voice-Enabled AI Language Learning Assistant**
+### 02 — [English AI Tutor](https://anum-mubashar-iqbal.github.io/English-AI-Tutor/)
+**Voice-Enabled AI Language Learning App**
 
-A browser-based English tutoring app powered by **Groq API (LLaMA 3.3-70B)** with full voice interaction — Speech-to-Text input, Text-to-Speech responses, full conversation history, and real-time mid-speech controls. Built specifically to give ESL learners natural, free conversational practice.
+A browser-based tutoring app powered by Groq API (LLaMA 3.3-70B) with full Speech-to-Text, Text-to-Speech, conversation history, and real-time controls — designed for ESL learners who want natural practice.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Web Speech API](https://img.shields.io/badge/Web_Speech_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq_LLaMA_3.3-F55036?style=flat-square&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-2D6A4F?style=flat-square&logo=github&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LLaMA_3.3-F55036?style=flat-square&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-1A3626?style=flat-square&logo=github&logoColor=white)
 
 ---
 
-### 🌸 [Academic Portfolio Website](https://www.thelingualoom.com/)
-**Personal Academic Website — Botanical Aesthetic**
+### 03 — [Academic Portfolio](https://www.thelingualoom.com/)
+**Personal Website — Botanical Aesthetic**
 
-A professional academic portfolio with a distinctive **botanical, feminine aesthetic** — showcasing research, MPhil thesis work, teaching experience, certifications, and ongoing educational projects. Designed and built entirely from scratch.
+A professional academic portfolio with a signature botanical aesthetic — designed and built from scratch to present research, teaching experience, and educational projects.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-2D6A4F?style=flat-square&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-1A3626?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -134,9 +124,9 @@ A professional academic portfolio with a distinctive **botanical, feminine aesth
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anum-Mubashar-Iqbal&show_icons=true&title_color=2D6A4F&icon_color=8B5E3C&text_color=3D1F0A&border_color=C4A882&bg_color=F5EDD8&hide_border=false&count_private=true&include_all_commits=true" height="168" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-Mubashar-Iqbal&layout=compact&title_color=2D6A4F&text_color=3D1F0A&border_color=C4A882&bg_color=F5EDD8" height="168" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anum-Mubashar-Iqbal&show_icons=true&title_color=2D6A4F&icon_color=C4951A&text_color=231208&border_color=C4A882&bg_color=F8F2E4&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anum-Mubashar-Iqbal&layout=compact&title_color=2D6A4F&text_color=231208&border_color=C4A882&bg_color=F8F2E4" height="165"/>
 
 </div>
 
@@ -145,37 +135,17 @@ A professional academic portfolio with a distinctive **botanical, feminine aesth
 ## 🐍 Contribution Activity
 
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anum-Mubashar-Iqbal/Anum-Mubashar-Iqbal/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anum-Mubashar-Iqbal/Anum-Mubashar-Iqbal/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Anum-Mubashar-Iqbal/Anum-Mubashar-Iqbal/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/Anum-Mubashar-Iqbal/Anum-Mubashar-Iqbal/output/github-contribution-grid-snake.svg" alt="Snake"/>
 </picture>
-
 </div>
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
 
-I'm always open to **academic collaborations**, **research discussions**, **linguistics education projects**, and conversations about **language, technology, and learning**.
-
-<br/>
-
-[![Email](https://img.shields.io/badge/thelingualoom@gmail.com-8B3A1A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thelingualoom@gmail.com)
-&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Visit_My_Website-2D6A4F?style=for-the-badge&logo=safari&logoColor=white)](https://www.thelingualoom.com/)
-
-<br/><br/>
-
----
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=15&duration=5000&pause=2000&color=8B5E3C&center=true&vCenter=true&width=650&height=30&lines=%22Language+is+the+architecture+of+thought.%22;%F0%9F%8C%BF+The+Lingua+Loom+%C2%B7+Weaving+Language+%26+Knowledge+Together+%F0%9F%8C%BF" alt="Footer"/>
-
-<br/>
-
-![Visitors](https://komarev.com/ghpvc/?username=Anum-Mubashar-Iqbal&color=8B5E3C&style=flat-square&label=Visitors)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:52B788,100:1A3626&height=110&section=footer&fontSize=14&fontColor=E8C56A&animation=fadeIn&desc=The+Lingua+Loom+%C2%B7+Weaving+Language+%26+Knowledge+Together&descAlignY=55"/>
 
 </div>
