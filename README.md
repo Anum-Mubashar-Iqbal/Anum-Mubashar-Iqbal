@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anum-Mubashar-Iqbal&color=2D6A4F&style=flat-square&label=Profile+Views)
+[![Profile Views](https://komarev.com/ghpvc/?username=Anum-Mubashar-Iqbal&color=2D6A4F&style=flat-square&label=Profile+Views)](https://github.com/Anum-Mubashar-Iqbal)
 
 </div>
 
